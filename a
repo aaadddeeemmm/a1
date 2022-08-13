@@ -1,0 +1,1152 @@
+{
+  "locationEngDepartmentsList": [
+    {
+      "locationName": "Bilgisayar Mühendisligi",
+      "locationLatitude": "38.6727929",
+      "locationLongitude": "39.1891675",
+      "locationTelNo": "0(424) 237 00 00 - 6351",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmekatronikMuhendisligi.jpeg?alt=media&token=8d1de746-a38f-4448-9472-2c2425d2ec2a",
+      "locationWebsite": "http://bilgisayar.mf.firat.edu.tr"
+    },
+    {
+      "locationName": "Biyomühendislik Bölümü",
+      "locationLatitude": "38.6788369",
+      "locationLongitude": "39.187552",
+      "locationTelNo": "0(424) 237 00 00 - 5591",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fbiyomuhendislik.jpg?alt=media&token=c0106565-2adf-4acd-b530-fe16a12dc780",
+      "locationWebsite": "http://bm.mf.firat.edu.tr"
+    },
+    {
+      "locationName": "Çevre Mühendisliği",
+      "locationLatitude": "38.6748466",
+      "locationLongitude": "39.192109",
+      "locationTelNo": "0(424) 237 00 00 - 8310",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmimarlikFakultesi.jpeg?alt=media&token=5a4cd8b4-b51f-4ba4-8093-4750a1fbc1e5",
+      "locationWebsite": "http://cevre.mf.firat.edu.tr"
+    },
+    {
+      "locationName": "Elektrik Elektronik Mühendisliği",
+      "locationLatitude": "38.6747302",
+      "locationLongitude": "39.186658",
+      "locationTelNo": "0(424) 237 00 00 - 5213",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FelektrikElektronikMuhendisligi.jpg?alt=media&token=28d53ef3-a8ac-4a9d-bcbb-08c41159cde0",
+      "locationWebsite": "http://eem.mf.firat.edu.tr"
+    },
+    {
+      "locationName": "İnşaat Mühendisliği",
+      "locationLatitude": "38.6729489",
+      "locationLongitude": "39.1885228",
+      "locationTelNo": "0(424) 237 00 00 - 5414",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fin%C5%9FaatMuhendisligi.png?alt=media&token=91f7db39-642d-4ba3-a50d-d1111d51973c",
+      "locationWebsite": "http://insaat.mf.firat.edu.tr"
+    },
+    {
+      "locationName": "Jeoloji Mühendisligi",
+      "locationLatitude": "38.6734182",
+      "locationLongitude": "39.1863785",
+      "locationTelNo": "0(424) 237 00 00 - 5951",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fjeolojimuh.jpeg?alt=media&token=7b04ed75-c6ac-4fa4-8f92-f9916ffa7aa0",
+      "locationWebsite": "http://jeoloji.mf.firat.edu.tr"
+    },
+    {
+      "locationName": "Kimya Mühendisliği",
+      "locationLatitude": "38.6748466",
+      "locationLongitude": "39.192109",
+      "locationTelNo": "0(424) 237 00 00 - 8310",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmimarlikFakultesi.jpeg?alt=media&token=5a4cd8b4-b51f-4ba4-8093-4750a1fbc1e5",
+      "locationWebsite": "http://kimya.mf.firat.edu.tr"
+    },
+    {
+      "locationName": "Makine Mühendisliği",
+      "locationLatitude": "38.674441",
+      "locationLongitude": "39.187874",
+      "locationTelNo": "0(424) 237 00 00 - 5301",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmakineMuhendisligi.jpg?alt=media&token=b8b70c47-d093-45d5-ba7d-90ca4c5bb2ac",
+      "locationWebsite": "http://makina.mf.firat.edu.tr"
+    },
+    {
+      "locationName": "Mekatronik Mühendisligi",
+      "locationLatitude": "38.6727929",
+      "locationLongitude": "39.1891675",
+      "locationTelNo": "0(424) 237 00 00 - 6351",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmekatronikMuhendisligi.jpeg?alt=media&token=8d1de746-a38f-4448-9472-2c2425d2ec2a",
+      "locationWebsite": "http://mekatronik.mf.firat.edu.tr"
+    },
+    {
+      "locationName": "Metalurji ve Malzeme Mühendisligi",
+      "locationLatitude": "38.6727929",
+      "locationLongitude": "39.1891675",
+      "locationTelNo": "0(424) 237 00 00 - 6366",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmekatronikMuhendisligi.jpeg?alt=media&token=8d1de746-a38f-4448-9472-2c2425d2ec2a",
+      "locationWebsite": "http://mm.mf.firat.edu.tr"
+    },
+    {
+      "locationName": "Yazılım Mühendisliği",
+      "locationLatitude": "38.6788369",
+      "locationLongitude": "39.187552",
+      "locationTelNo": "0(424) 237 00 00 - 4216",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FyazilimMuhendisligi.jpg?alt=media&token=87579e75-ec9d-4c0e-9468-bbbf72078886",
+      "locationWebsite": "http://yaz.mf.firat.edu.tr"
+    }
+  ],
+  "locationFlyDepartmentsList": [
+    {
+      "locationName": "Havacılık Elektrik ve Elektroniği",
+      "locationLatitude": "38.6737628",
+      "locationLongitude": "39.1853808",
+      "locationTelNo": "0(424) 237 00 00 - 8987",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsivilHavacilikYuksekokulu.jpg?alt=media&token=a6414a53-aebf-4ef3-892e-975dd3a3ea83",
+      "locationWebsite": "http://heeb.sivilhavacilik.firat.edu.tr"
+    },
+    {
+      "locationName": "Uçak Bakım ve Onarım",
+      "locationLatitude": "38.6737628",
+      "locationLongitude": "39.1853808",
+      "locationTelNo": "0(424) 237 00 00 - 8970",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsivilHavacilikYuksekokulu.jpg?alt=media&token=a6414a53-aebf-4ef3-892e-975dd3a3ea83",
+      "locationWebsite": "http://ubob.sivilhavacilik.firat.edu.tr"
+    },
+    {
+      "locationName": "Hava Trafik Kontrolü",
+      "locationLatitude": "38.6737628",
+      "locationLongitude": "39.1853808",
+      "locationTelNo": "0(424) 237 00 00 - 8985",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsivilHavacilikYuksekokulu.jpg?alt=media&token=a6414a53-aebf-4ef3-892e-975dd3a3ea83",
+      "locationWebsite": "http://htkb.sivilhavacilik.firat.edu.tr"
+    }
+  ],
+  "locationArchitectureDepartmentsList": [
+    {
+      "locationName": "Mimarlık",
+      "locationLatitude": "38.6748466",
+      "locationLongitude": "39.192109",
+      "locationTelNo": "0(424) 237 00 00 - 8310",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmimarlikFakultesi.jpeg?alt=media&token=5a4cd8b4-b51f-4ba4-8093-4750a1fbc1e5",
+      "locationWebsite": "http://mimarlik.mimarlikf.firat.edu.tr"
+    },
+    {
+      "locationName": "İç Mimarlık",
+      "locationLatitude": "38.6748466",
+      "locationLongitude": "39.192109",
+      "locationTelNo": "0(424) 237 00 00 - 8310",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmimarlikFakultesi.jpeg?alt=media&token=5a4cd8b4-b51f-4ba4-8093-4750a1fbc1e5",
+      "locationWebsite": "http://icmimarlik.mimarlikf.firat.edu.tr"
+    },
+    {
+      "locationName": "Şehir ve Bölge Planlama",
+      "locationLatitude": "38.6748466",
+      "locationLongitude": "39.192109",
+      "locationTelNo": "0(424) 237 00 00 - 8310",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmimarlikFakultesi.jpeg?alt=media&token=5a4cd8b4-b51f-4ba4-8093-4750a1fbc1e5",
+      "locationWebsite": "http://icmimarlik.mimarlikf.firat.edu.tr"
+    },
+    {
+      "locationName": "Endüstri Ürünleri Tasarımı",
+      "locationLatitude": "38.6748466",
+      "locationLongitude": "39.192109",
+      "locationTelNo": "0(424) 237 00 00 - 8310",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmimarlikFakultesi.jpeg?alt=media&token=5a4cd8b4-b51f-4ba4-8093-4750a1fbc1e5",
+      "locationWebsite": "http://endustri.mimarlikf.firat.edu.tr"
+    }
+  ],
+  "locationDepartmentsList": [
+    {
+      "locationName": "Tıp Fakültesi",
+      "locationLatitude": "38.6790373",
+      "locationLongitude": "39.2049053",
+      "locationTelNo": "0(424) 237 00 00 - 4613",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FtipFakultesi.jpg?alt=media&token=584d2078-9b76-49c1-a28c-cdf147f453e1",
+      "locationWebsite": "http://tip.firat.edu.tr"
+    },
+    {
+      "locationName": "Diş Hekimliği Fakültesi",
+      "locationLatitude": "38.6798177",
+      "locationLongitude": "39.204713",
+      "locationTelNo": "0(424) 237 00 00 - 6607",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FdisHekimligiFakultesi.png?alt=media&token=42dde13e-6116-4d8f-8d33-6d57dd4bf2b0",
+      "locationWebsite": "http://disf.firat.edu.tr"
+    },
+    {
+      "locationName": "İlahiyat Fakültesi",
+      "locationLatitude": "38.677705",
+      "locationLongitude": "39.188429",
+      "locationTelNo": "0(424) 237 00 00 - 5670",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FilahiyatFakultesi.jpg?alt=media&token=80f0ad78-4e18-4f17-9353-2f39da621853",
+      "locationWebsite": "http://ilahiyatf.firat.edu.tr"
+    },
+    {
+      "locationName": "Veterinerlik Fakültesi",
+      "locationLatitude": "38.6789713",
+      "locationLongitude": "39.2007316",
+      "locationTelNo": "0(424) 237 00 00 - 4613",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FveterinerlikFakultesi.jpg?alt=media&token=731056aa-210a-4fdc-bf9f-427f70e00ac9",
+      "locationWebsite": "http://veterinerf.firat.edu.tr"
+    },
+    {
+      "locationName": "Su Ürünleri Fakültesi",
+      "locationLatitude": "38.6839317",
+      "locationLongitude": "39.1940773",
+      "locationTelNo": "0(424) 237 00 00 - 4510",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsuUrunleriFakultesi.jpeg?alt=media&token=f05ab478-8cc2-4d55-99a5-4a26ef9bb161",
+      "locationWebsite": "http://suuf.firat.edu.tr"
+    },
+    {
+      "locationName": "Devlet Konservatuarı",
+      "locationLatitude": "38.6806517",
+      "locationLongitude": "39.2000405",
+      "locationTelNo": "0(424) 237 00 88",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FdevletKonservatuari.jpg?alt=media&token=0e1ededc-6912-4718-8585-f5ade859f682",
+      "locationWebsite": "http://kyo.firat.edu.tr"
+    }
+  ],
+  "locationHealthDepartmentsList": [
+    {
+      "locationName": "Hemşirelik",
+      "locationLatitude": "38.6832133",
+      "locationLongitude": "39.1938292",
+      "locationTelNo": "0(424) 237 00 00 - 4585",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsuUrunleriFakultesi.jpeg?alt=media&token=f05ab478-8cc2-4d55-99a5-4a26ef9bb161",
+      "locationWebsite": "http://hemsirelik.saglikf.firat.edu.tr"
+    },
+    {
+      "locationName": "Ebelik",
+      "locationLatitude": "38.6832133",
+      "locationLongitude": "39.1938292",
+      "locationTelNo": "0(424) 237 00 00 - 4585",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsuUrunleriFakultesi.jpeg?alt=media&token=f05ab478-8cc2-4d55-99a5-4a26ef9bb161",
+      "locationWebsite": "http://ebe.saglikf.firat.edu.tr"
+    },
+    {
+      "locationName": "Beslenme ve Diyetik",
+      "locationLatitude": "38.6832133",
+      "locationLongitude": "39.1938292",
+      "locationTelNo": "0(424) 237 00 00 - 8288",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsuUrunleriFakultesi.jpeg?alt=media&token=f05ab478-8cc2-4d55-99a5-4a26ef9bb161",
+      "locationWebsite": "http://bd.saglikf.firat.edu.tr"
+    },
+    {
+      "locationName": "Fizyoterapi ve Rehabilitasyon",
+      "locationLatitude": "38.6832133",
+      "locationLongitude": "39.1938292",
+      "locationTelNo": "0(424) 237 00 00 - 4585",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsuUrunleriFakultesi.jpeg?alt=media&token=f05ab478-8cc2-4d55-99a5-4a26ef9bb161",
+      "locationWebsite": "http://ftr.saglikf.firat.edu.tr"
+    }
+  ],
+  "locationTechnologyDepartmentsList": [
+    {
+      "locationName": "Adli Bilişim Mühendisliği",
+      "locationLatitude": "38.680729",
+      "locationLongitude": "39.196209",
+      "locationTelNo": "0(424) 237 00 00 - 7631",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FteknolojiFakultesi.jpeg?alt=media&token=08a3a3e9-8ac6-414b-9655-59cae4b48862",
+      "locationWebsite": "http://abm.tf.firat.edu.tr"
+    },
+    {
+      "locationName": "Elektrik Elektronik Mühendisliği",
+      "locationLatitude": "38.680729",
+      "locationLongitude": "39.196209",
+      "locationTelNo": "0(424) 237 00 00 - 4341",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FteknolojiFakultesi.jpeg?alt=media&token=08a3a3e9-8ac6-414b-9655-59cae4b48862",
+      "locationWebsite": "http://eem.tf.firat.edu.tr"
+    },
+    {
+      "locationName": "Enerji Sistemleri Mühendisliği",
+      "locationLatitude": "38.680729",
+      "locationLongitude": "39.196209",
+      "locationTelNo": "0(424) 237 00 00 - 7651",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FteknolojiFakultesi.jpeg?alt=media&token=08a3a3e9-8ac6-414b-9655-59cae4b48862",
+      "locationWebsite": "http://en.tf.firat.edu.tr"
+    },
+    {
+      "locationName": "İnşaat Mühendisliği",
+      "locationLatitude": "38.680729",
+      "locationLongitude": "39.196209",
+      "locationTelNo": "0(424) 237 00 00 - 4261",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FteknolojiFakultesi.jpeg?alt=media&token=08a3a3e9-8ac6-414b-9655-59cae4b48862",
+      "locationWebsite": "http://insaat.tf.firat.edu.tr"
+    },
+    {
+      "locationName": "Makine Mühendisliği",
+      "locationLatitude": "38.680729",
+      "locationLongitude": "39.196209",
+      "locationTelNo": "0(424) 237 00 00 - 4371",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FteknolojiFakultesi.jpeg?alt=media&token=08a3a3e9-8ac6-414b-9655-59cae4b48862",
+      "locationWebsite": "http://makina.tf.firat.edu.tr"
+    },
+    {
+      "locationName": "Mekatronik Mühendisliği",
+      "locationLatitude": "38.680729",
+      "locationLongitude": "39.196209",
+      "locationTelNo": "0(424) 237 00 00 - 7601",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FteknolojiFakultesi.jpeg?alt=media&token=08a3a3e9-8ac6-414b-9655-59cae4b48862",
+      "locationWebsite": "http://mekatronik.tf.firat.edu.tr"
+    },
+    {
+      "locationName": "Metalurji ve Malzeme Mühendisliği",
+      "locationLatitude": "38.680729",
+      "locationLongitude": "39.196209",
+      "locationTelNo": "0(424) 237 00 00 - 4236",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FteknolojiFakultesi.jpeg?alt=media&token=08a3a3e9-8ac6-414b-9655-59cae4b48862",
+      "locationWebsite": "http://mm.tf.firat.edu.tr"
+    },
+    {
+      "locationName": "Otomotiv Mühendisliği",
+      "locationLatitude": "38.680729",
+      "locationLongitude": "39.196209",
+      "locationTelNo": "0(424) 237 00 00 - 4371",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FteknolojiFakultesi.jpeg?alt=media&token=08a3a3e9-8ac6-414b-9655-59cae4b48862",
+      "locationWebsite": "http://otomotiv.tf.firat.edu.tr"
+    },
+    {
+      "locationName": "Yazılım Mühendisliği",
+      "locationLatitude": "38.680729",
+      "locationLongitude": "39.196209",
+      "locationTelNo": "0(424) 237 00 00 - 4384",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FteknolojiFakultesi.jpeg?alt=media&token=08a3a3e9-8ac6-414b-9655-59cae4b48862",
+      "locationWebsite": "http://yaz.tf.firat.edu.tr"
+    },
+    {
+      "locationName": "Yazılım Mühendisliği UOLP",
+      "locationLatitude": "38.680729",
+      "locationLongitude": "39.196209",
+      "locationTelNo": "0(424) 237 00 00 - 4216",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FteknolojiFakultesi.jpeg?alt=media&token=08a3a3e9-8ac6-414b-9655-59cae4b48862",
+      "locationWebsite": "http://yazilimuolp.tf.firat.edu.tr"
+    }
+  ],
+  "locationEconomicsAndAdministrativeDepartmentsList": [
+    {
+      "locationName": "İktisat",
+      "locationLatitude": "38.6846922",
+      "locationLongitude": "39.1941766",
+      "locationTelNo": "0(424) 237 00 00 - 4151",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmimarlikFakultesi.jpeg?alt=media&token=5a4cd8b4-b51f-4ba4-8093-4750a1fbc1e5",
+      "locationWebsite": "http://iktisat.iibf.firat.edu.tr"
+    },
+    {
+      "locationName": "İşletme",
+      "locationLatitude": "38.6846922",
+      "locationLongitude": "39.1941766",
+      "locationTelNo": "0(424) 237 00 00 - 4162",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmimarlikFakultesi.jpeg?alt=media&token=5a4cd8b4-b51f-4ba4-8093-4750a1fbc1e5",
+      "locationWebsite": "http://isletme.iibf.firat.edu.tr"
+    },
+    {
+      "locationName": "Siyaset Bilmi ve Kamu Yönetimi",
+      "locationLatitude": "38.6846922",
+      "locationLongitude": "39.1941766",
+      "locationTelNo": "0(424) 237 00 00 - 4160",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FiktisadiVeIdariBilimlerFak%C3%BCltesi.jpg?alt=media&token=dc780c49-be67-4929-a686-61b1f4fb1703",
+      "locationWebsite": "http://sbkyb.iibf.firat.edu.tr"
+    },
+    {
+      "locationName": "Sosyal Hizmetler",
+      "locationLatitude": "38.6748466",
+      "locationLongitude": "39.192109",
+      "locationTelNo": "0(424) 237 00 00 - 4162",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmimarlikFakultesi.jpeg?alt=media&token=5a4cd8b4-b51f-4ba4-8093-4750a1fbc1e5",
+      "locationWebsite": "http://shb.iibf.firat.edu.tr"
+    },
+    {
+      "locationName": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+      "locationLatitude": "38.6748466",
+      "locationLongitude": "39.192109",
+      "locationTelNo": "0(424) 237 00 00 - 8310",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmimarlikFakultesi.jpeg?alt=media&token=5a4cd8b4-b51f-4ba4-8093-4750a1fbc1e5",
+      "locationWebsite": "http://ceeib.iibf.firat.edu.tr"
+    },
+    {
+      "locationName": "Maliye",
+      "locationLatitude": "38.6846922",
+      "locationLongitude": "39.1941766",
+      "locationTelNo": "0(424) 237 00 00 - 4151",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FiktisadiVeIdariBilimlerFak%C3%BCltesi.jpg?alt=media&token=dc780c49-be67-4929-a686-61b1f4fb1703",
+      "locationWebsite": "http://maliye.iibf.firat.edu.tr"
+    },
+    {
+      "locationName": "Sağlık Yönetimi",
+      "locationLatitude": "38.6846922",
+      "locationLongitude": "39.1941766",
+      "locationTelNo": "0(424) 237 00 00 - 4162",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FiktisadiVeIdariBilimlerFak%C3%BCltesi.jpg?alt=media&token=dc780c49-be67-4929-a686-61b1f4fb1703",
+      "locationWebsite": "http://sy.iibf.firat.edu.tr"
+    },
+    {
+      "locationName": "Yönetim Bilişim Sistemleri",
+      "locationLatitude": "38.6846922",
+      "locationLongitude": "39.1941766",
+      "locationTelNo": "0(424) 237 00 00 - 4151",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FiktisadiVeIdariBilimlerFak%C3%BCltesi.jpg?alt=media&token=dc780c49-be67-4929-a686-61b1f4fb1703",
+      "locationWebsite": "http://ybs.iibf.firat.edu.tr"
+    }
+  ],
+  "locationEducationDepartmentsList": [
+    {
+      "locationName": "Bilgisayar ve Öğretim Teknolojileri Eğitimi",
+      "locationLatitude": "38.6804593",
+      "locationLongitude": "39.1947454",
+      "locationTelNo": "0(424) 237 00 00 - 4890",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FegitimFakultesiABlok.jpeg?alt=media&token=fea9fae6-8f59-4828-896c-393a6668457f",
+      "locationWebsite": "http://bote.egitimf.firat.edu.tr"
+    },
+    {
+      "locationName": "Eğitim Bilimleri",
+      "locationLatitude": "38.6804593",
+      "locationLongitude": "39.1947454",
+      "locationTelNo": "0(424) 237 00 00 - 4929",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FegitimFakultesiABlok.jpeg?alt=media&token=fea9fae6-8f59-4828-896c-393a6668457f",
+      "locationWebsite": "http://ebb.egitimf.firat.edu.tr"
+    },
+    {
+      "locationName": "Güzel Sanatlar",
+      "locationLatitude": "38.6804593",
+      "locationLongitude": "39.1947454",
+      "locationTelNo": "0(424) 237 00 00 - 4890",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FegitimFakultesiABlok.jpeg?alt=media&token=fea9fae6-8f59-4828-896c-393a6668457f",
+      "locationWebsite": "http://gseb.egitimf.firat.edu.tr"
+    },
+    {
+      "locationName": "Matematik ve Fen Bilimleri",
+      "locationLatitude": "38.6804593",
+      "locationLongitude": "39.1947454",
+      "locationTelNo": "0(424) 237 00 00 - 4803",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FegitimFakultesiABlok.jpeg?alt=media&token=fea9fae6-8f59-4828-896c-393a6668457f",
+      "locationWebsite": "http://mfbeb.egitimf.firat.edu.tr"
+    },
+    {
+      "locationName": "Temel Eğitim",
+      "locationLatitude": "38.6804593",
+      "locationLongitude": "39.1947454",
+      "locationTelNo": "0(424) 237 00 00 - 4829",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FegitimFakultesiABlok.jpeg?alt=media&token=fea9fae6-8f59-4828-896c-393a6668457f",
+      "locationWebsite": "http://teb.egitimf.firat.edu.tr"
+    },
+    {
+      "locationName": "Türkçe ve Sosyal Bilimler Eğitimi",
+      "locationLatitude": "38.6804593",
+      "locationLongitude": "39.1947454",
+      "locationTelNo": "0(424) 237 00 00 - 4801",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FegitimFakultesiABlok.jpeg?alt=media&token=fea9fae6-8f59-4828-896c-393a6668457f",
+      "locationWebsite": "http://tsbb.egitimf.firat.edu.tr"
+    },
+    {
+      "locationName": "Yabancı Diller Eğitimi",
+      "locationLatitude": "38.6804593",
+      "locationLongitude": "39.1947454",
+      "locationTelNo": "0(424) 237 00 00 - 4801",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FegitimFakultesiABlok.jpeg?alt=media&token=fea9fae6-8f59-4828-896c-393a6668457f",
+      "locationWebsite": "http://ydeb.egitimf.firat.edu.tr/tr"
+    }
+  ],
+  "locationScienceDepartmentsList": [
+    {
+      "locationName": "Moleküler Biyoloji ve Genetik",
+      "locationLatitude": "38.6810566",
+      "locationLongitude": "39.2028388",
+      "locationTelNo": "0(424) 237 00 00 - 3771",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://biyoloji.ff.firat.edu.tr"
+    },
+    {
+      "locationName": "Fizik",
+      "locationLatitude": "38.6810566",
+      "locationLongitude": "39.2028388",
+      "locationTelNo": "0(424) 237 00 00 - 3820",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://fizik.ff.firat.edu.tr"
+    },
+    {
+      "locationName": "Kimya",
+      "locationLatitude": "38.6810566",
+      "locationLongitude": "39.2028388",
+      "locationTelNo": "0(424) 237 00 00 - 3501",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://kimya.ff.firat.edu.tr"
+    },
+    {
+      "locationName": "Matematik",
+      "locationLatitude": "38.6810566",
+      "locationLongitude": "39.2028388",
+      "locationTelNo": "0(424) 237 00 00 - 3535",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://matematik.ff.firat.edu.tr"
+    },
+    {
+      "locationName": "İstatistik",
+      "locationLatitude": "38.6810566",
+      "locationLongitude": "39.2028388",
+      "locationTelNo": "0(424) 237 00 00 - 3579",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://istatistik.ff.firat.edu.tr"
+    }
+  ],
+  "locationSocialScienceDepartmentsList": [
+    {
+      "locationName": "Batı Dilleri ve Edebiyatı",
+      "locationLatitude": "38.6810478",
+      "locationLongitude": "39.2032654",
+      "locationTelNo": "0(424) 237 00 00 - 3662",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://bdeb.isbf.firat.edu.tr"
+    },
+    {
+      "locationName": "Coğrafya",
+      "locationLatitude": "38.6810478",
+      "locationLongitude": "39.2032654",
+      "locationTelNo": "0(424) 237 00 00 - 3662",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://cb.isbf.firat.edu.tr"
+    },
+    {
+      "locationName": "Çağdaş Türk Lehçeleri ve Edebiyatı Bölümü",
+      "locationLatitude": "38.6810478",
+      "locationLongitude": "39.2032654",
+      "locationTelNo": "0(424) 237 00 00 - 3751",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://ctleb.isbf.firat.edu.tr"
+    },
+    {
+      "locationName": "İngilizce Mütercim Tercümanlık",
+      "locationLatitude": "38.6810478",
+      "locationLongitude": "39.2032654",
+      "locationTelNo": "0(424) 237 00 00 - 3662",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://imt.isbf.firat.edu.tr"
+    },
+    {
+      "locationName": "Sosyoloji",
+      "locationLatitude": "38.6810478",
+      "locationLongitude": "39.2032654",
+      "locationTelNo": "0(424) 237 00 00 - 3662",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://sosyoloji.isbf.firat.edu.tr"
+    },
+    {
+      "locationName": "Tarih",
+      "locationLatitude": "38.6810478",
+      "locationLongitude": "39.2032654",
+      "locationTelNo": "0(424) 237 00 00 - 3539",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://tarih.isbf.firat.edu.tr"
+    },
+    {
+      "locationName": "Sanat Tarihi",
+      "locationLatitude": "38.6810478",
+      "locationLongitude": "39.2032654",
+      "locationTelNo": "0(424) 237 00 00 - 3578",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://sanattarihi.isbf.firat.edu.tr"
+    },
+    {
+      "locationName": "Türk Dili ve Edebiyatı",
+      "locationLatitude": "38.6810478",
+      "locationLongitude": "39.2032654",
+      "locationTelNo": "0(424) 237 00 00 - 3526",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenFakultesi.jpg?alt=media&token=5537a081-00e2-4f25-ae4b-b3be030c27eb",
+      "locationWebsite": "http://turkdili.isbf.firat.edu.tr"
+    }
+  ],
+  "locationSportsSciencesDepartmentsList": [
+    {
+      "locationName": "Spor Yöneticiliği",
+      "locationLatitude": "38.6817998",
+      "locationLongitude": "39.1935854",
+      "locationTelNo": "0(424) 237 00 00 - 6501",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fbesyo.jpg?alt=media&token=687c8abf-502a-47e9-bb4d-331c2fba4513",
+      "locationWebsite": "http://sy.sbf.firat.edu.tr"
+    },
+    {
+      "locationName": "Beden Eğitimi ve Spor Öğretmenliği",
+      "locationLatitude": "38.6817998",
+      "locationLongitude": "39.1935854",
+      "locationTelNo": "0(424) 237 00 00 - 6501",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fbesyo.jpg?alt=media&token=687c8abf-502a-47e9-bb4d-331c2fba4513",
+      "locationWebsite": "http://beso.sbf.firat.edu.tr"
+    },
+    {
+      "locationName": "Antrenörlük Eğitimi",
+      "locationLatitude": "38.6817998",
+      "locationLongitude": "39.1935854",
+      "locationTelNo": "0(424) 237 00 00 - 6501",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fbesyo.jpg?alt=media&token=687c8abf-502a-47e9-bb4d-331c2fba4513",
+      "locationWebsite": "http://aeb.sbf.firat.edu.tr"
+    },
+    {
+      "locationName": "Rekreasyon",
+      "locationLatitude": "38.6817998",
+      "locationLongitude": "39.1935854",
+      "locationTelNo": "0(424) 237 00 00 - 6501",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fbesyo.jpg?alt=media&token=687c8abf-502a-47e9-bb4d-331c2fba4513",
+      "locationWebsite": "http://rek.sbf.firat.edu.tr"
+    }
+  ],
+  "locationCommunicationDepartmentsList": [
+    {
+      "locationName": "Gazetecilik",
+      "locationLatitude": "38.6248042",
+      "locationLongitude": "39.0981779",
+      "locationTelNo": "0(424) 237 00 00 - 6607",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FiletisimFakultesi.jpg?alt=media&token=bcfab6c2-b069-44bb-9d00-d0390c61ea08",
+      "locationWebsite": "http://gazetecilik.iletisimf.firat.edu.tr"
+    },
+    {
+      "locationName": "Görsel İletişim Tasarımı",
+      "locationLatitude": "38.6248042",
+      "locationLongitude": "39.0981779",
+      "locationTelNo": "0(424) 237 00 00 - 6607",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FiletisimFakultesi.jpg?alt=media&token=bcfab6c2-b069-44bb-9d00-d0390c61ea08",
+      "locationWebsite": "http://gorseliletisim.iletisimf.firat.edu.tr"
+    },
+    {
+      "locationName": "Halkla İlişkiler ve Tanıtım",
+      "locationLatitude": "38.6248042",
+      "locationLongitude": "39.0981779",
+      "locationTelNo": "0(424) 237 00 00 - 6607",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FiletisimFakultesi.jpg?alt=media&token=bcfab6c2-b069-44bb-9d00-d0390c61ea08",
+      "locationWebsite": "http://hitb.iletisimf.firat.edu.tr"
+    },
+    {
+      "locationName": "Radyo-Televizyon Ve Sinema",
+      "locationLatitude": "38.6248042",
+      "locationLongitude": "39.0981779",
+      "locationTelNo": "0(424) 237 00 00 - 8845",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FiletisimFakultesi.jpg?alt=media&token=bcfab6c2-b069-44bb-9d00-d0390c61ea08",
+      "locationWebsite": "http://radyotv.iletisimf.firat.edu.tr"
+    }
+  ],
+  "locationVocationalSchoolList": [
+    {
+      "locationName": "Yabancı Diller Yüksekokulu",
+      "locationLatitude": "38.6764524",
+      "locationLongitude": "39.1868303",
+      "locationTelNo": "0(424) 237 00 00 - 5668",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fyabancidiller.jpeg?alt=media&token=442d9322-bc47-4fba-86f5-529537a4b881",
+      "locationWebsite": "http://yabancidiller.firat.edu.tr"
+    },
+    {
+      "locationName": "Teknik Bilimler Meslek Yüksekokulu",
+      "locationLatitude": "38.6864961",
+      "locationLongitude": "39.189019",
+      "locationTelNo": "0(424) 237 00 00 - 7203",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FteknikBilimlerMeslekYuksekokulu.jpeg?alt=media&token=c2154f63-e9d9-4309-b935-f1420a15ed4d",
+      "locationWebsite": "http://teknik.firat.edu.tr"
+    },
+    {
+      "locationName": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "locationLatitude": "38.6815447",
+      "locationLongitude": "39.1929989",
+      "locationTelNo": "0(424) 237 00 00 - 6553",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsaglikHizmetleriMeslekYuksekokulu.png?alt=media&token=d5d8f161-f545-47ad-81be-7b5c33f8cb4a",
+      "locationWebsite": "http://saglikmyo.firat.edu.tr"
+    },
+    {
+      "locationName": "Sosyal bilimler Meslek Yüksekokulu",
+      "locationLatitude": "38.681347",
+      "locationLongitude": "39.1935315",
+      "locationTelNo": "0(424) 237 00 00 - 6562",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsaglikHizmetleriMeslekYuksekokulu.png?alt=media&token=d5d8f161-f545-47ad-81be-7b5c33f8cb4a",
+      "locationWebsite": "http://sosyalmyo.firat.edu.tr"
+    },
+    {
+      "locationName": "Baskil Meslek Yüksekokulu",
+      "locationLatitude": "38.5768272",
+      "locationLongitude": "38.8355969",
+      "locationTelNo": "0(424) 237 00 00 - 8251",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FbaskilMyo.jpg?alt=media&token=7c4bd9b1-c46c-4a5b-8308-d429aa971827",
+      "locationWebsite": "http://baskil.firat.edu.tr"
+    },
+    {
+      "locationName": "Elazığ Organize Sanayi Meslek Yüksekokulu",
+      "locationLatitude": "38.621678",
+      "locationLongitude": "39.299651",
+      "locationTelNo": "0(424) 237 00 00 - 8214",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FosbMyo.jpg?alt=media&token=af284897-1e3c-4873-864a-efa8a69e609c",
+      "locationWebsite": "http://sanayi.firat.edu.tr"
+    },
+    {
+      "locationName": "Karakoçan Meslek Yüksekokulu",
+      "locationLatitude": "38.9443743",
+      "locationLongitude": "40.0469637",
+      "locationTelNo": "0(424) 711 57 67",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FkarakocanMyo.jpeg?alt=media&token=7621b7a3-a2f2-4efa-8d76-b604471871ab",
+      "locationWebsite": "http://karakocan.firat.edu.tr"
+    },
+    {
+      "locationName": "Keban Meslek Yüksekokulu",
+      "locationLatitude": "38.7959631",
+      "locationLongitude": "38.7295171",
+      "locationTelNo": "0(424) 237 00 00 - 8523",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FkebanMyo.jpg?alt=media&token=bcdc5ec5-8fe3-4950-9fa8-5a275f5cbd49",
+      "locationWebsite": "http://keban.firat.edu.tr"
+    },
+    {
+      "locationName": "Kovancılar Meslek Yüksekokulu",
+      "locationLatitude": "38.7126019",
+      "locationLongitude": "39.8368732",
+      "locationTelNo": "0(424) 611 78 22",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FkebanMyo.jpg?alt=media&token=bcdc5ec5-8fe3-4950-9fa8-5a275f5cbd49",
+      "locationWebsite": "http://kovancilar.firat.edu.tr/"
+    },
+    {
+      "locationName": "Sivrice Meslek Yüksekokulu",
+      "locationLatitude": "38.6806429",
+      "locationLongitude": "39.2000514",
+      "locationTelNo": "0(424) 237 00 00 - 4130",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsivriceMyo.jpg?alt=media&token=b7b5ee65-dd0a-43bf-ab4a-fd1a2e52cf86",
+      "locationWebsite": "http://sivrice.firat.edu.tr"
+    }
+  ],
+  "locationCanteenList": [
+    {
+      "locationName": "Kültür Park",
+      "locationLatitude": "38.6795506",
+      "locationLongitude": "39.2024038",
+      "locationTelNo": "0(424) 237 00 00 - 4199",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FkulturPark.jpg?alt=media&token=04cdfb98-7376-4ee2-b434-0ce3e9eb208f",
+      "locationWebsite": "http://sks.dab.firat.edu.tr"
+    },
+    {
+      "locationName": "Fırın Kafe",
+      "locationLatitude": "38.6794529",
+      "locationLongitude": "39.1981737",
+      "locationTelNo": "(0424) 237 00 00 - 4084",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfirinKafe.jpg?alt=media&token=323ae7eb-0077-4eb3-87c1-28670409a4bf",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9689"
+    },
+    {
+      "locationName": "By Marble Cafe&Bistro",
+      "locationLatitude": "38.6742899",
+      "locationLongitude": "39.1909851",
+      "locationTelNo": "05358300777",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmarbleCafe.jpg?alt=media&token=f167a0ce-3725-468d-90b3-12de992dbd18",
+      "locationWebsite": "https://by-marble-cafebistro.business.site/?utm_source=gmb&utm_medium=referral"
+    },
+    {
+      "locationName": "Mühendislik Fakültesi Kantin Kafeterya ve Fotokopi",
+      "locationLatitude": "38.6750827",
+      "locationLongitude": "39.1869964",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmuhendislikKantini.jpg?alt=media&token=6545759f-bc18-410f-99a7-1effc66b5371",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "30. Yıl Kafe Fotokopi",
+      "locationLatitude": "38.681334",
+      "locationLongitude": "39.1967723",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FotuzuncuYil.jpg?alt=media&token=0b1e1fdd-d1f7-4333-b54c-38cec183e907",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Makina Mühendisliği Kantin Fotokopi",
+      "locationLatitude": "38.674421",
+      "locationLongitude": "39.187993",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fmakinekantini.jpeg?alt=media&token=069485c8-82f3-4f86-aa7c-be0847d30c0e",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Bilgisayar Mühendisliği Kantini",
+      "locationLatitude": "38.672686",
+      "locationLongitude": "39.188517",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fmekatronikkantini.jpeg?alt=media&token=5446a169-45d1-49e2-893f-63de60ea18a8",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "İlahiyat Kantini",
+      "locationLatitude": "38.6764644",
+      "locationLongitude": "39.1868679",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Filahiyatkantini.jpeg?alt=media&token=1b0d87fb-1a86-4524-acd1-ee5223ac0a17",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Mimarlık Fakültesi Kantini",
+      "locationLatitude": "38.675388",
+      "locationLongitude": "39.192511",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fmimarlikkantini.jpeg?alt=media&token=e992fc18-890e-4c1a-ad48-f04ec0783740",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Veterinerlik Fakültesi Kantin Fotokopi",
+      "locationLatitude": "38.679110",
+      "locationLongitude": "39.200044",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FveterinerlikKantini.jpg?alt=media&token=a24e7cfd-6bd6-4639-a3e6-34a145fab3a2",
+      "locationWebsite": "veterinerlikKantini"
+    },
+    {
+      "locationName": "Çardak Kafe",
+      "locationLatitude": "38.680278",
+      "locationLongitude": "39.198675",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FcardakKafe.jpeg?alt=media&token=6cfd399f-300a-45ea-9c2d-0e7ef69059cb",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Eğitim Kafe ve Fotokopi",
+      "locationLatitude": "38.6800883",
+      "locationLongitude": "39.1952377",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FegitimKafe.jpg?alt=media&token=ca6a372b-5a3f-4752-9d9f-7b0acad1046a",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Sosyal Bilimler Kantin Fotokopi",
+      "locationLatitude": "38.6815743",
+      "locationLongitude": "39.1927887",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsosyalBilimlerKantini.jpg?alt=media&token=a670b4a4-6ed1-46ce-90f5-7042bcdfaa2d",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Kafe Han",
+      "locationLatitude": "38.6821618",
+      "locationLongitude": "39.1920784",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FkafeHan.png?alt=media&token=a0afb821-021e-4172-a92d-fb0af871cb76",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Spor Bilimleri Kantini",
+      "locationLatitude": "38.682404",
+      "locationLongitude": "39.193034",
+      "locationTelNo": "1",
+      "locationImage": null,
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Spor Bilimleri Kantini",
+      "locationLatitude": "38.683979",
+      "locationLongitude": "39.193891",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsaglikBilimleriKantini.jpg?alt=media&token=f6c0c477-2020-4d0d-b0c1-d70e354c85e1",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Fen Edebiyat Kantini",
+      "locationLatitude": "38.681113",
+      "locationLongitude": "39.201961",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FfenEdebiyatKantini.jpg?alt=media&token=4bc4aaf1-e12a-401e-8fa6-302dd9f6dd90",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Teknik Bilimler MYO Kantini",
+      "locationLatitude": "38.687153",
+      "locationLongitude": "39.189767",
+      "locationTelNo": "1",
+      "locationImage": null,
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "İnşaat Mühendisliği Kantin Fotokopi",
+      "locationLatitude": "38.673272",
+      "locationLongitude": "39.187212",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Finsaatkantini.jpeg?alt=media&token=4ac832ad-f367-4a86-9a66-a335b33851f4,",
+      "locationWebsite": "1"
+    },
+    {
+      "locationName": "Tıp Fakültesi Kantini",
+      "locationLatitude": "38.6791309",
+      "locationLongitude": "39.20432",
+      "locationTelNo": "1",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Ftipkantini.jpeg?alt=media&token=dd0881e5-b04c-4e17-95c0-86f4d5929343,",
+      "locationWebsite": "1"
+    }
+  ],
+  "locationServicesList": [
+    {
+      "locationName": "Misafirhane",
+      "locationLatitude": "38.6757887",
+      "locationLongitude": "39.1880976",
+      "locationTelNo": "(0424) 237 00 00 - 6000",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fmisafirhane.jpg?alt=media&token=644ef720-472c-4290-9cb7-2ab52d22a356",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9303"
+    },
+    {
+      "locationName": "Sosyal Merkez",
+      "locationLatitude": "38.6790366",
+      "locationLongitude": "39.2009626",
+      "locationTelNo": "(0424) 237 00 00 - 4084",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsosyalMerkez.jpeg?alt=media&token=dbee5845-0f59-4f09-ad79-cb3c7cb335f4",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9305"
+    },
+    {
+      "locationName": "Üniversite Evi",
+      "locationLatitude": "38.6792838",
+      "locationLongitude": "39.1968634",
+      "locationTelNo": "0(424) 237 00 00 - 4327",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FuniversiteEvi.jpg?alt=media&token=0233f23e-891a-42bd-8d9f-8d7a5df9cf6e",
+      "locationWebsite": "http://uevi.mdr.firat.edu.tr"
+    },
+    {
+      "locationName": "Mühendislik Yemekhanesi",
+      "locationLatitude": "38.6745027",
+      "locationLongitude": "39.1849422",
+      "locationTelNo": "0(424) 237 00 00 - 4327",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmuhendislikYemekhanesi.png?alt=media&token=e241076d-502b-437e-8e3a-24df649e9cef",
+      "locationWebsite": "http://uevi.mdr.firat.edu.tr"
+    },
+    {
+      "locationName": "Şok Market Rektörlük",
+      "locationLatitude": "38.6820053",
+      "locationLongitude": "39.200673",
+      "locationTelNo": "0850 808 00 00",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fsokmuh.jpeg?alt=media&token=e6d72d13-7801-4dc4-950e-7d4d88e84bc6",
+      "locationWebsite": "https://www.sokmarket.com.tr"
+    },
+    {
+      "locationName": "Şok Market Mühendislik",
+      "locationLatitude": "38.6765185",
+      "locationLongitude": "39.1878723",
+      "locationTelNo": "0850 808 00 00",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fsokmuh.jpeg?alt=media&token=e6d72d13-7801-4dc4-950e-7d4d88e84bc6,",
+      "locationWebsite": "https://www.sokmarket.com.tr/"
+    },
+    {
+      "locationName": "Gezin Eğitim ve Dinlenme Tesisleri Kampı",
+      "locationLatitude": "38.5185566",
+      "locationLongitude": "39.4127325",
+      "locationTelNo": "(0424) 237 00 00 - 4084",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FkampBir.png?alt=media&token=03473f73-d9bc-4791-b733-8f0753c6f249",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9335"
+    },
+    {
+      "locationName": "Sivrice Gençlik Eğitim Kampı",
+      "locationLatitude": "38.443161",
+      "locationLongitude": "39.329613",
+      "locationTelNo": "(0424) 237 00 00 - 3206",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FkampIki.png?alt=media&token=dd76cd2e-57e6-425f-8117-5f3996199e78",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9335"
+    },
+    {
+      "locationName": "Harput KYK Kız Yurdu",
+      "locationLatitude": "38.674630",
+      "locationLongitude": "39.184500",
+      "locationTelNo": "0(424) 247 00 18",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FharputKykKizYurdu.png?alt=media&token=c758808f-862d-4a78-a793-f343cc197166",
+      "locationWebsite": "https://www.kykyurtlar.com/harput-ogrenci-yurdu-54547-kyk-yurdu/"
+    },
+    {
+      "locationName": "Sare Ana KYK Kız Yurdu",
+      "locationLatitude": "38.674630",
+      "locationLongitude": "39.184500",
+      "locationTelNo": "0(424) 241 1200",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FsareAnaKykKizYurdu.png?alt=media&token=0b972919-9058-4a46-bae3-f3a4ba08cab0",
+      "locationWebsite": "https://www.kykyurtlar.com/sare-ana-ogrenci-yurdu-54551-kyk-yurdu/"
+    }
+  ],
+  "locationSportsComplexList": [
+    {
+      "locationName": "Çok Amaçlı Kapalı Spor Salonu",
+      "locationLatitude": "38.6828006",
+      "locationLongitude": "39.193539",
+      "locationTelNo": "0(424) 237 00 00",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FcokAmacliSporSalonu.jpg?alt=media&token=9c6e069b-d536-481f-9a58-b89f3a7b91f0",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9207"
+    },
+    {
+      "locationName": "Açık Spor Sahaları Merkez",
+      "locationLatitude": "38.6796794",
+      "locationLongitude": "39.1988316",
+      "locationTelNo": "0(424) 237 00 00 - 3218",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FacikSporSahalari.jpg?alt=media&token=fd4efe8b-c23c-4760-a537-bc1a9f444afe",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9207"
+    },
+    {
+      "locationName": "Açık Spor Sahaları Tıp Fakültesi",
+      "locationLatitude": "38.678503",
+      "locationLongitude": "39.205710",
+      "locationTelNo": "0(424) 237 00 00 - 3218",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Faciksporsahalaritip.jpeg?alt=media&token=ef8ad93f-0a4a-4b62-bf83-cca8ccb39d35",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9207"
+    },
+    {
+      "locationName": "Açık Spor Sahaları Mühendislik",
+      "locationLatitude": "38.6745027",
+      "locationLongitude": "39.1849422",
+      "locationTelNo": "0(424) 237 00 00 - 3218",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Faciksporsahalarimuhendislik.jpeg?alt=media&token=be594258-608f-4dcf-9bc4-c370d7d5985a",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9207"
+    }
+  ],
+  "locationHallsList": [
+    {
+      "locationName": "Atatürk Kültür Merkezi",
+      "locationLatitude": "38.6737926",
+      "locationLongitude": "39.1893157",
+      "locationTelNo": "0(424) 237 00 00",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fakm.jpg?alt=media&token=52e799d2-c871-44cf-9734-a44c6a826180",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9204"
+    },
+    {
+      "locationName": "Mustafa Temizer Konferans Salonu",
+      "locationLatitude": "38.6790975",
+      "locationLongitude": "39.1996737",
+      "locationTelNo": "0(424) 237 00 00",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FmustafaTemizer.png?alt=media&token=31bb6527-4078-4caf-b5d9-f0c98f02dda3",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9204"
+    },
+    {
+      "locationName": "Bahaeddin Ögel Konferans Salonu",
+      "locationLatitude": "38.6811966",
+      "locationLongitude": "39.2020125",
+      "locationTelNo": "0(424) 237 00 00",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FbahaddinOgel.jpg?alt=media&token=f1712975-d9a4-45b0-a655-50982e4ae707",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9204"
+    },
+    {
+      "locationName": "Kongre Merkezi",
+      "locationLatitude": "38.6728137",
+      "locationLongitude": "39.1891249",
+      "locationTelNo": "0(424) 237 00 00",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FkongreMerkezi.jpg?alt=media&token=1522fe11-6a6b-453f-9fd1-0ab33f663446",
+      "locationWebsite": "http://sks.dab.firat.edu.tr/tr/page/9204"
+    }
+  ],
+  "locationAdministrativeBuildingList": [
+    {
+      "locationName": "Rektörlük",
+      "locationLatitude": "38.6777401",
+      "locationLongitude": "39.2019974",
+      "locationTelNo": "0(424) 237 00 00",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Frektorluk.jpg?alt=media&token=4b76ee26-51d2-4c6d-92aa-02b2745b7d09",
+      "locationWebsite": "http://www.firat.edu.tr"
+    },
+    {
+      "locationName": "Sağlık Kültür ve Spor Daire Başkanlığı",
+      "locationLatitude": "38.6755515",
+      "locationLongitude": "39.1924892",
+      "locationTelNo": "0(424) 237 00 00 - 3231",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fsks.jpeg?alt=media&token=d6d5a79e-a326-4b72-83e4-4d465eaed3d6",
+      "locationWebsite": "http://sks.dab.firat.edu.tr"
+    },
+    {
+      "locationName": "Öğrenci İşleri Daire Başkanlığı",
+      "locationLatitude": "38.6741589",
+      "locationLongitude": "39.1882933",
+      "locationTelNo": "0(424) 237 00 00 - 3251",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FogrenciIsleriDaireBasganl%C4%B1g%C4%B1.png?alt=media&token=15ce1d44-125d-494e-b6b4-3aa07a8bd288",
+      "locationWebsite": "http://ogrenci.dab.firat.edu.tr"
+    },
+    {
+      "locationName": "Erasmus Ofisi",
+      "locationLatitude": "38.6757997",
+      "locationLongitude": "39.1868491",
+      "locationTelNo": "0(424) 237 00 61 ",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FerasmusOfisi.png?alt=media&token=191c3288-8aea-44a2-99e7-8fad39ea3e95",
+      "locationWebsite": "http://disiliskiler.koord.firat.edu.tr"
+    },
+    {
+      "locationName": " Enformatik Birimi",
+      "locationLatitude": "38.6803814",
+      "locationLongitude": "39.1996943",
+      "locationTelNo": "0(424) 237 00 00 - 3164",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2FenformatikBirimi.png?alt=media&token=48abe43e-eb06-4183-a2bb-d4caf1e0d3bb",
+      "locationWebsite": "http://eb.firat.edu.tr"
+    },
+    {
+      "locationName": "FÜBAP",
+      "locationLatitude": "38.6803963",
+      "locationLongitude": "39.1992866",
+      "locationTelNo": "0(424) 237 00 00 - 4051",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Ffubap.png?alt=media&token=b4e50b87-625a-484f-aa16-8c6960b75990",
+      "locationWebsite": "https://bap.firat.edu.tr/index.php"
+    },
+    {
+      "locationName": "FÜSEM",
+      "locationLatitude": "38.682331",
+      "locationLongitude": "39.1932438",
+      "locationTelNo": "0(424) 237 00 00 - 4051",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Ffusem.png?alt=media&token=1c88a567-71c2-4440-8b50-839587aa4beb",
+      "locationWebsite": "http://efusem.com/default.asp"
+    },
+    {
+      "locationName": "Basım Evi",
+      "locationLatitude": "38.681778",
+      "locationLongitude": "39.202171",
+      "locationTelNo": "1",
+      "locationImage": null,
+      "locationWebsite": "1"
+    }
+  ],
+  "locationAtmList": [
+    {
+      "locationName": "Ziraat Bankası ATM Mühendislik",
+      "locationLatitude": "38.6745535",
+      "locationLongitude": "39.1894246",
+      "locationTelNo": "08502200000",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fziraatmuh.jpeg?alt=media&token=c77b3e26-d823-4f75-8b81-3695bb25532e",
+      "locationWebsite": "https://www.ziraatbank.com.tr"
+    },
+    {
+      "locationName": "Ziraat Bankası ATM Rektörlük",
+      "locationLatitude": "38.678946",
+      "locationLongitude": "39.2009387",
+      "locationTelNo": "08502200000",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fziraatrek.jpeg?alt=media&token=595262b1-8d97-4792-8933-7d55a4c0a188",
+      "locationWebsite": "https://www.ziraatbank.com.tr"
+    },
+    {
+      "locationName": "Akbank ATM Mühendislik",
+      "locationLatitude": "38.6745472",
+      "locationLongitude": "39.1894455",
+      "locationTelNo": "444 2 525",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fakbankmuh.jpeg?alt=media&token=6f8250ff-c47f-4050-8300-7d21869ea660",
+      "locationWebsite": "https://www.akbank.com"
+    },
+    {
+      "locationName": "Akbank ATM Rektörlük",
+      "locationLatitude": "38.678946",
+      "locationLongitude": "39.2009387",
+      "locationTelNo": "444 2 525",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fakbankrek.jpeg?alt=media&token=5c142f1e-0ead-4e93-abf7-a899427392cf",
+      "locationWebsite": "https://www.akbank.com"
+    },
+    {
+      "locationName": "PTT ATM",
+      "locationLatitude": "38.6745158",
+      "locationLongitude": "39.1894455",
+      "locationTelNo": "444 1 788",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fpttmuh.jpeg?alt=media&token=da285f20-2bcf-4b6c-be7f-f4a1ca65e273",
+      "locationWebsite": "https://www.ptt.gov.tr/Sayfalar/Banka.aspx"
+    },
+    {
+      "locationName": "Yapı Kredi ATM",
+      "locationLatitude": "38.678946",
+      "locationLongitude": "39.2009387",
+      "locationTelNo": "0850 222 0444",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fyapikredirek.jpeg?alt=media&token=ae508dd9-d8ee-4881-942f-bcfa2abef1ae",
+      "locationWebsite": "https://www.yapikredi.com.tr"
+    },
+    {
+      "locationName": "Vakıf Bank ATM",
+      "locationLatitude": "38.678946",
+      "locationLongitude": "39.2009387",
+      "locationTelNo": "0850 222 0724",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fvakifrek.jpeg?alt=media&token=9452456b-5892-456d-b07b-e83e59826dd7",
+      "locationWebsite": "https://www.vakifbank.com.tr"
+    },
+    {
+      "locationName": "İş Bankası ATM Rektörlük",
+      "locationLatitude": "38.678946",
+      "locationLongitude": "39.2009387",
+      "locationTelNo": "0850 724 0724",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fisbankrek.jpeg?alt=media&token=cc7a3130-a289-4ca1-ab73-443ccd3f78e9",
+      "locationWebsite": "https://www.isbank.com.tr"
+    },
+    {
+      "locationName": "İş Bankası ATM Mühendislik",
+      "locationLatitude": "38.6745472",
+      "locationLongitude": "39.1894455",
+      "locationTelNo": "0850 724 0724",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/images%2Fisbankrek.jpeg?alt=media&token=cc7a3130-a289-4ca1-ab73-443ccd3f78e9",
+      "locationWebsite": "https://www.isbank.com.tr"
+    }
+  ]
+}

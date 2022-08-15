@@ -3,6 +3,7 @@
     {
       "nameTurkish": "Mühendislik Fakültesi",
       "nameEnglish": "Faculty Of Engineering",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FmuhendislikFakultesi.png?alt=media&token=a52b5cad-59fa-40bb-9402-f0949b9ef8e8",
       "locations": [
         {
           "locationName": "Bilgisayar Mühendisliği",
@@ -97,6 +98,7 @@
     {
       "nameTurkish": "Sivil Havacılık Yüksekokulu",
       "nameEnglish": "School Of Civil Aviation",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FsivilHavacilikYuksekokulu.jpg?alt=media&token=df1f0644-fddc-4def-9417-f4a03e68cdf6",
       "locations": [
         {
           "locationName": "Havacılık Elektrik ve Elektroniği",
@@ -127,6 +129,7 @@
     {
       "nameTurkish": "Mimarlık Fakültesi",
       "nameEnglish": "Faculty Of Architecture",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FmimarlikFakultesi.jpeg?alt=media&token=982f406f-cdac-4dd7-a2ed-28361584013e",
       "locations":  [
         {
           "locationName": "Mimarlık",
@@ -165,6 +168,7 @@
     {
       "nameTurkish": "Diğer Fakülteler",
       "nameEnglish": "Other Faculties",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FdigerFakulteler.jpg?alt=media&token=e3712dee-86c7-4b1c-9c77-7f1a650fb397",
       "locations":  [
         {
           "locationName": "Tıp Fakültesi",
@@ -219,6 +223,7 @@
     {
       "nameTurkish": "Sağlık Bilimleri Fakültesi",
       "nameEnglish": "Faculty Of Health Sciences",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FsaglikBilimleriFakultesi.jpeg?alt=media&token=0ae73ea7-8ce6-44df-b338-15371726286d",
       "locations": [
         {
           "locationName": "Hemşirelik",
@@ -257,6 +262,7 @@
     {
       "nameTurkish": "Teknoloji Fakültesi",
       "nameEnglish": "Faculty Of Technology",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FteknolojiFakultesi.jpeg?alt=media&token=82c5432f-47df-4679-b0b0-c23c8c7d141a",
       "locations":  [
         {
           "locationName": "Adli Bilişim Mühendisliği",
@@ -343,6 +349,7 @@
     {
       "nameTurkish": "İktisadi Ve İdari Bilimler Fakültesi",
       "nameEnglish": "Faculty Of Economics And Administrative Sciences",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FiktisadiVeIdariBilimlerFak%C3%BCltesi.jpg?alt=media&token=20358dca-f406-470d-8072-3a2bbc6303c6",
       "locations":  [
         {
           "locationName": "İktisat",
@@ -413,6 +420,7 @@
     {
       "nameTurkish": "Eğitim Fakültesi",
       "nameEnglish": "Faculty Of Education",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FegitimFakultesiABlok.jpeg?alt=media&token=f1ff8d96-5828-4822-a461-32d52bf606b5",
       "locations": [
         {
           "locationName": "Bilgisayar ve Öğretim Teknolojileri Eğitimi",
@@ -475,6 +483,7 @@
     {
       "nameTurkish": "Fen Fakültesi",
       "nameEnglish": "Faculty Of Science",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FfenFakultesi-sosyalBilimlerFakultesi.jpg?alt=media&token=70f8d08f-e1d8-4c5f-b6b7-801a108c1b8c",
       "locations": [
         {
           "locationName": "Moleküler Biyoloji ve Genetik",
@@ -521,6 +530,7 @@
     {
       "nameTurkish": "Sosyal Bilimler Fakültesi",
       "nameEnglish": "Faculty Of Social Sciences",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FfenFakultesi-sosyalBilimlerFakultesi.jpg?alt=media&token=70f8d08f-e1d8-4c5f-b6b7-801a108c1b8c",
       "locations": [
         {
           "locationName": "Batı Dilleri ve Edebiyatı",
@@ -591,6 +601,7 @@
     {
       "nameTurkish": "Spor Bilimleri Fakültesi",
       "nameEnglish": "Faculty Of Sport Science",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FsporBilimleriFakultesi.jpg?alt=media&token=1d1d71e1-766c-4bdb-857d-576e2f4cd1e3",
       "locations": [
         {
           "locationName": "Spor Yöneticiliği",
@@ -629,6 +640,7 @@
     {
       "nameTurkish": "İletişim Fakültesi",
       "nameEnglish": "Faculty Of Communication",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FiktisadiVeIdariBilimlerFak%C3%BCltesi.jpg?alt=media&token=20358dca-f406-470d-8072-3a2bbc6303c6",
       "locations": [
         {
           "locationName": "Gazetecilik",
@@ -667,6 +679,7 @@
     {
       "nameTurkish": "Yüksekokullar",
       "nameEnglish": "Vocational Schools",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2Fyuksekokullar.jpg?alt=media&token=5faedd3b-6844-435f-acf2-1e0e250b5906",
       "locations": [
         {
           "locationName": "Yabancı Diller Yüksekokulu",
@@ -753,6 +766,7 @@
     {
       "nameTurkish": "Kantinler",
       "nameEnglish": "Canteens",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2Fkantinler.jpg?alt=media&token=c80d86de-9f75-4380-894c-c5c7ae24c1ef",
       "locations": [
         {
           "locationName": "Kültür Park",
@@ -919,6 +933,7 @@
     {
       "nameTurkish": "Üniversite Hizmetleri",
       "nameEnglish": "University Services",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FuniversiteHizmetler.png?alt=media&token=717cbade-d0a5-4aef-a7c5-15a49da5d333",
       "locations": [
         {
           "locationName": "Misafirhane",
@@ -1005,6 +1020,7 @@
     {
       "nameTurkish": "Spor Alanları",
       "nameEnglish": "Sports Complex",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FsporAlanlari.jpg?alt=media&token=c1a252ae-9514-4645-8bcd-f8b1a5acb2f3",
       "locations": [
         {
           "locationName": "Çok Amaçlı Kapalı Spor Salonu",
@@ -1043,6 +1059,7 @@
     {
       "nameTurkish": "Konferans Salonları",
       "nameEnglish": "Halls Of Conference",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FkonferansSalonlari.jpg?alt=media&token=bbfda916-68bc-47df-9002-07e946e6225e",
       "locations": [
         {
           "locationName": "Atatürk Kültür Merkezi",
@@ -1081,6 +1098,7 @@
     {
       "nameTurkish": "İdari Binalar",
       "nameEnglish": "Administrative Buildings",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FidariBinalar.jpg?alt=media&token=473f0c8b-6c0d-447a-beb5-36d5bbcc9199",
       "locations": [
         {
           "locationName": "Rektörlük",
@@ -1151,6 +1169,7 @@
     {
       "nameTurkish": "ATM'ler",
       "nameEnglish": "ATMs",
+      "locationImage": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/locationImage%2FATM'ler.jpeg?alt=media&token=bf7ea9d7-4319-4bbf-948c-ce7cd40a5bef",
       "locations":[
         {
           "locationName": "Ziraat Bankası ATM Mühendislik",

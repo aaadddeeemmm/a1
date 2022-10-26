@@ -61,7 +61,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FGezi%20Toplulugu%2FLogo.jpg?alt=media&token=038e7960-1e9f-4b33-8a6b-c4768ee67b81",
-    "societyName": "Fırat Gezi ve Turizm Öğrenci Topluluğu",
+    "societyName": "Gezi ve Turizm Öğrenci Topluluğu",
     "societyNameAbbreviation": "FGT",
     "societyFoundationYear": "2021",
     "societyMembers": 175,
@@ -100,7 +100,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSosyal%20Ar-Ge%2FLogo.jpg?alt=media&token=9a326ea3-962a-4e22-8ca5-d6664b51a678",
-    "societyName": "Fırat Üniversitesi Sosyal Ar-Ge Öğrenci Topluluğu",
+    "societyName": "Sosyal Ar-Ge Öğrenci Topluluğu",
     "societyNameAbbreviation": "FÜSAT",
     "societyFoundationYear": "2022",
     "societyMembers": 25,
@@ -118,7 +118,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSosyal%20Hizmet%2FLogo.png?alt=media&token=907e0aa4-eb27-414c-8483-decd776e6265",
-    "societyName": "Fırat Üniversitesi Sosyal Hizmet Etkileşim ve Farkındalık Öğrecni Topluluğu",
+    "societyName": "Sosyal Hizmet Etkileşim ve Farkındalık Öğrecni Topluluğu",
     "societyNameAbbreviation": "SHEFT",
     "societyFoundationYear": "2017",
     "societyMembers": 186,
@@ -138,7 +138,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFIMU%2FLogo.png?alt=media&token=64bf6b7d-6d32-4ffb-bf8d-7897190a290a",
-    "societyName": "Fırat Üniversitesi İnşaat Mühendisliği Öğrenci Topluluğu",
+    "societyName": "İnşaat Mühendisliği Öğrenci Topluluğu",
     "societyNameAbbreviation": "FİMÜ",
     "societyFoundationYear": "2003",
     "societyMembers": 150,
@@ -160,14 +160,19 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFU-AID%2FLogo.png?alt=media&token=cebfd3ea-f8a0-4e53-b7b8-f63bfdd25351",
-    "societyName": "Fırat Üniversitesi Uluslararası Doktorlar Birliği Öğrenci Topluluğu",
+    "societyName": "Uluslararası Doktorlar Birliği Öğrenci Topluluğu",
     "societyNameAbbreviation": "FÜ-AID",
     "societyFoundationYear": "2021",
-    "societyMembers": 205,
+    "societyMembers": 340,
     "societyDescription": "İnsani ve İslami değerlerden yola çıkarak, sağlık hizmetlerinin yetersiz olduğu coğrafyalarda ve afet bölgelerinde yaşayan insanların yanında olmayı kendisine görev edinen Uluslararası Doktorlar Derneği, 2011 yılında İstanbul’da kurulmuştur.Bu misyonla kendisini tanımlayan derneğimiz dünyanın birçok bölgesinde halen sağlık eğitimi, sağlık yardımı, koruyucu sağlık hizmetleri, tedavi ve rehabilitasyon hizmetlerini gönüllü sağlık çalışanları ile yürütmektedir. FÜ-AID 14 Mart 2021 tarihinde kurulmus olup Fırat Üniversitesi Tıp Fakültesinde derneğimiizn ışığında etkinlikler yapmaktayız.",
     "societyImages": [
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFU-AID%2F5824CF1D-C531-4A54-9C47-4A1DF107EA52%20-%20Tahir%20ONAY.jpeg?alt=media&token=5ab7e0f3-3d0e-45bb-9624-16513957a788",
       "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFU-AID%2Fkonferans%20-%20MUHAMMED%20ENES%20KURT.jpeg?alt=media&token=03edb904-515b-48ae-9a7a-b7b8186c3b9c",
-      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFU-AID%2Fkonferans%202%20-%20MUHAMMED%20ENES%20KURT.jpeg?alt=media&token=d07d4768-5ac2-4d21-9977-df9758dc1d35"
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFU-AID%2Fkonferans%202%20-%20MUHAMMED%20ENES%20KURT.jpeg?alt=media&token=d07d4768-5ac2-4d21-9977-df9758dc1d35",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFU-AID%2F31849272-E5F7-4F2F-B84C-95951320E248%20-%20Tahir%20ONAY.jpeg?alt=media&token=fd184804-586d-4dce-aefc-7d35ff659510",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFU-AID%2F0EFA4B6E-E306-4BB9-B143-6F8D3A3D4C96%20-%20Tahir%20ONAY.jpeg?alt=media&token=b8f13edd-ad33-44f3-93bf-a2d5895c25d3",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFU-AID%2FB29BE931-3AAE-49A9-A861-153B37CC23C8%20-%20Tahir%20ONAY.jpeg?alt=media&token=4488b25a-171b-42ed-80a2-f5432626604f",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFU-AID%2FDA5ED85F-B4C2-4D9C-B150-2B4F1EAC0041%20-%20Tahir%20ONAY.jpeg?alt=media&token=51d2037a-c081-47d6-947e-2f3fdab8643d"
     ],
     "societyInstagram": "https://www.instagram.com/fu_aid",
     "societyYoutube": null,
@@ -250,7 +255,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFEBITEK%2FLogo.png?alt=media&token=34d7df5e-9c16-4851-b8b0-847bd76e8935",
-    "societyName": "Fırat Elektronik ve Bilişim Teknolojileri Öğrenci Topluluğu",
+    "societyName": "Elektronik ve Bilişim Teknolojileri Öğrenci Topluluğu",
     "societyNameAbbreviation": "FEBİTEK",
     "societyFoundationYear": "2006",
     "societyMembers": 310,
@@ -272,7 +277,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFTR%2FLogo.png?alt=media&token=632351ea-4bc4-4635-b50d-2e4d2e92deae",
-    "societyName": "Fırat Üniversitesi Fizyoterapi ve Rehabilitasyon Öğrenci Topluluğu",
+    "societyName": "Fizyoterapi ve Rehabilitasyon Öğrenci Topluluğu",
     "societyNameAbbreviation": "FÜ-FTR",
     "societyFoundationYear": "2020",
     "societyMembers": 250,
@@ -350,7 +355,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFirat%20Elektro%2FLogo.jpg?alt=media&token=5b234fa6-10d9-4869-9548-8edb9458092f",
-    "societyName": "Fırat Elektro Teknoloji Topluluğu",
+    "societyName": "Elektro Teknoloji Topluluğu",
     "societyNameAbbreviation": "FET",
     "societyFoundationYear": "2013",
     "societyMembers": 50,
@@ -370,7 +375,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFUVET%2FLogo.jpg?alt=media&token=c8c99852-ade2-4d96-84d3-a5b272dbfe4a",
-    "societyName": "Fırat Üniversitesi Veteriner Fakültesi Öğrenci Topluluğu",
+    "societyName": "Veteriner Fakültesi Öğrenci Topluluğu",
     "societyNameAbbreviation": "FUVET",
     "societyFoundationYear": "2020",
     "societyMembers": 300,
@@ -390,7 +395,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFUTEK%2FLogo.jpg?alt=media&token=2e143738-c869-4521-8fb7-bb8a8d643530",
-    "societyName": "Fırat Üniversitesi Teknoloji Topluluğu",
+    "societyName": "Teknoloji Topluluğu",
     "societyNameAbbreviation": "FÜTEK",
     "societyFoundationYear": "2008",
     "societyMembers": 40,
@@ -451,7 +456,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFUHUT%2FLogo.png?alt=media&token=3ec40f02-92d0-4bd4-8c56-979e762caa01",
-    "societyName": "Fırat Üniversitesi Havacılık ve Uzay Teknolojileri Öğrenci Topluluğu",
+    "societyName": "Havacılık ve Uzay Teknolojileri Öğrenci Topluluğu",
     "societyNameAbbreviation": "FÜHUT",
     "societyFoundationYear": "2018",
     "societyMembers": 124,
@@ -511,7 +516,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFUSGT%2FLogo.png?alt=media&token=9274ab47-08fd-4683-b483-ae362b816d33",
-    "societyName": "Fırat Üniversitesi Siber Güvenlik Topluluğu",
+    "societyName": "Siber Güvenlik Topluluğu",
     "societyNameAbbreviation": "FUSGT",
     "societyFoundationYear": "2016",
     "societyMembers": 100,
@@ -549,7 +554,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FASIMSAV%2FLogo.jpeg?alt=media&token=942da0db-5725-40af-b521-59313cc93428",
-    "societyName": "Fırat Üniversitesi Akıllı Sistemler ve Milli Savunma Teknolojileri Öğrenci Topluluğu",
+    "societyName": "Akıllı Sistemler ve Milli Savunma Teknolojileri Öğrenci Topluluğu",
     "societyNameAbbreviation": "ASİMSAV",
     "societyFoundationYear": "2018",
     "societyMembers": 25,
@@ -566,7 +571,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFUHAT%2FLogo.jpeg?alt=media&token=c2fd1d32-0c89-4bb7-8793-e255053d8e35",
-    "societyName": "Fırat Üniversitesi Hayvanları Koruma Topluluğu",
+    "societyName": "Hayvanları Koruma Topluluğu",
     "societyNameAbbreviation": "FÜHAT",
     "societyFoundationYear": "2013",
     "societyMembers": 76,
@@ -663,24 +668,6 @@
     "societyWebsite": null,
     "societyLinkedIn": null,
     "societyMail": "furehberogrencitoplulugu@gmail.com"
-  },
-  {
-    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FMBG%2FLogo.jpeg?alt=media&token=20ffc121-8a67-4fa6-a842-fa5a62d1d3a9",
-    "societyName": "Moleküler Biyoloji ve Genetik Öğrenci Topluluğu",
-    "societyNameAbbreviation": "FüGenetik",
-    "societyFoundationYear": "2022",
-    "societyMembers": 80,
-    "societyDescription": "Moleküler Biyoloji ve Genetik Topluluğumuz bilimseverleri , bilime merak duyanları bir araya getiren bu bağlamda seminerler  , konferanslar vb öğrencilere her anlamda  katkı sağlayacak etkinlikler düzenlemeyi bilimi yaymayı amaç edinmiş bir topluluktur.",
-    "societyImages": [
-      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FMBG%2FWhatsApp%20Image%202022-03-09%20at%2022.23.05%20-%20%C3%87A%C4%9EATAY%20YILMAZ.jpeg?alt=media&token=3ac7db89-b485-4dc8-9045-9d90dd11845a",
-      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FMBG%2FWhatsApp%20Image%202022-03-09%20at%2022.23.03%20-%20%C3%87A%C4%9EATAY%20YILMAZ.jpeg?alt=media&token=333f6cc2-6c2c-48b6-8d47-13882276c59c"
-    ],
-    "societyInstagram": "https://instagram.com/fugenetik",
-    "societyYoutube": "https://www.youtube.com/channel/UCCxEo0VTRrqf__yULEXOeHg",
-    "societyTwitter": "https://twitter.com/fugenetik",
-    "societyWebsite": null,
-    "societyLinkedIn": null,
-    "societyMail": "fugenetik@gmail.com"
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FGenc%20Girisimciler%2FLogo.PNG?alt=media&token=6a0a2e64-7511-452f-81bd-2066a05797ec",
@@ -811,7 +798,7 @@
   },
   {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFUESpor%2Flogo.jpeg?alt=media&token=4ca022d7-0ab9-46df-9a51-ab9af28880f8",
-    "societyName": "Fırat Üniversitesi E-Spor Öğrenci Topluluğu",
+    "societyName": "E-Spor Öğrenci Topluluğu",
     "societyNameAbbreviation": "FUESpor",
     "societyFoundationYear": "2017",
     "societyMembers": 143,
@@ -875,5 +862,221 @@
     "societyWebsite": null,
     "societyLinkedIn": null,
     "societyMail": "fu.sosya1hizmet@gmail.com"
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFUFOL%2FFUFOL%20Logo.png?alt=media&token=545b9503-18ee-487e-979d-e5a45765c0dc",
+    "societyName": "Yabancı Dil Topluluğu",
+    "societyNameAbbreviation": "FUFOL",
+    "societyFoundationYear": "2016",
+    "societyMembers": 100,
+    "societyDescription": "Amaçlar; \n- Üyelere İngilizce konuşma imkanları sağlamak \n- Üyelerin İngilizce konuşma becerilerini geliştirmeye yardımcı olmak\n- Çeşitli eğlenceli etkinlikler ile bilinçaltı öğrenmeye katkıda bulunmak\n- Online etkinlikler ile sınıf dışı öğrenme ve pratik imkanları yaratmak",
+    "societyImages": [
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFUFOL%2FIMG-20221011-WA0029%20-%20Yasin%20Bedri%20Y%C4%B1k%C4%B1n.jpg?alt=media&token=a47aadb1-86cb-4902-9d78-408f5f3eb0c3",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFUFOL%2FIMG-20221011-WA0030%20-%20Yasin%20Bedri%20Y%C4%B1k%C4%B1n.jpg?alt=media&token=ef52928a-897e-4df6-90c5-a6b7db18b7de",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFUFOL%2FIMG-20221011-WA0031%20-%20Yasin%20Bedri%20Y%C4%B1k%C4%B1n.jpg?alt=media&token=4d1c8a04-0ba7-4a65-99a8-eac9c5b3a7f5"
+    ],
+    "societyInstagram": "https://www.instagram.com/fuyabancidiltoplulugu",
+    "societyFacebook": null,
+    "societyTwitter": null,
+    "societyWebsite": null,
+    "societyLinkedIn": null,
+    "societyMail": "fuyabancidiltoplulugu@gmail.com"
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FIksitsat%20Toplulugu%2FIKTISAT.png?alt=media&token=4d1a6515-e456-41e3-aabf-980f8132368f",
+    "societyName": "İktisat Öğrenci Topluluğu",
+    "societyNameAbbreviation": "İÖT",
+    "societyFoundationYear": "2016",
+    "societyMembers": 25,
+    "societyDescription": "Ekonomi dünyasındaki ve güncel hayattaki gelişmeleri takip ederek; başlıca ticaret, işletme, iş dünyası, ekonomi, lojistik vs. gibi konularda çalışmalara öncülük etmeyi bu konuları içeren sertifikalı seminer, konferans, söyleşi, kariyer etkinlikleri, buluşmalar vb. programlar organize etmeyi, bu sayede öğrencilerin kendilerini geliştirmelerine katkıda bulunmayı hedeflemektedir.",
+    "societyImages": [
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FIksitsat%20Toplulugu%2FWhatsApp%20Image%202022-10-12%20at%2010.46.35%20-%20Seyda%20Namli.jpeg?alt=media&token=d46c44b0-3de3-4bdc-bdd8-86b57abf0e31",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FIksitsat%20Toplulugu%2FWhatsApp%20Image%202022-10-11%20at%2021.30.55%20(1)%20-%20Seyda%20Namli.jpeg?alt=media&token=70842bd7-740a-44b9-9b46-d4c1b935b9c7"
+    ],
+    "societyInstagram": "https://www.instagram.com/firatiktisatogrencitoplulugu",
+    "societyFacebook": null,
+    "societyTwitter": null,
+    "societyWebsite": "http://iibkon.firat.edu.tr/home2020.html",
+    "societyLinkedIn": null,
+    "societyMail": "fuiibkon@gmail.com"
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FHavacilik%20Toplulugu%2FFUHAK%20Logo.png?alt=media&token=3c964987-7f21-4b84-9d17-e6053fe70e92",
+    "societyName": "Havacılık Öğrenci Topluluğu",
+    "societyNameAbbreviation": "FÜHAK",
+    "societyFoundationYear": "1995",
+    "societyMembers": 339,
+    "societyDescription": "Sportif Havacılık Öğrenci Topluluğu",
+    "societyImages": [
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FHavacilik%20Toplulugu%2FWhatsApp%20Image%202022-10-05%20at%2013.43.47%20-%20M%20Furkan.jpeg?alt=media&token=985ff581-9a28-43cd-9789-45f79337d32d",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FHavacilik%20Toplulugu%2FIMG_20220328_021151_871%20-%20M%20Furkan.jpg?alt=media&token=f8d3c7e4-7eb0-4587-b364-532020c4335a",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FHavacilik%20Toplulugu%2F9dc8c7f8-5554-45c2-8635-1b3f61bb6c4b%20-%20M%20Furkan.jpg?alt=media&token=8566de74-c24a-4285-be75-ac8764596416",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FHavacilik%20Toplulugu%2FHavac%C4%B1l%C4%B1k%20S%C3%B6yle%C5%9Fi%20-%20M%20Furkan.png?alt=media&token=c6536085-aca3-425e-a2a5-e6dac7ef8cdc"
+    ],
+    "societyInstagram": "https://www.instagram.com/fuhak23",
+    "societyFacebook": "https://www.youtube.com/channel/UCiEuRSL1vcQNcE2holYgIaQ",
+    "societyTwitter": "https://twitter.com/fuhak1995?t=jo_PmSBHD1IZwZ9kpvCIeA&s=09",
+    "societyWebsite": null,
+    "societyLinkedIn": "https://www.linkedin.com/company/fuhak/",
+    "societyMail": "fuhak1995@gmail.com"
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSosyal%20Hekimler%2FSosyal%20Hekimler%20Logo.png?alt=media&token=3020fba0-052d-4141-b783-698811e4660d",
+    "societyName": "Sosyal Hekimler Öğrenci Topluluğu",
+    "societyNameAbbreviation": "SHOT",
+    "societyFoundationYear": "2022",
+    "societyMembers": 26,
+    "societyDescription": "Topluluğun imkanları dahilinde sosyal ihtiyaçlarımızı gidermek ve toplumsal farkındalığı yüksek hekimler yetiştirebilmek amacıyla etkinlikler düzenlemek.",
+    "societyImages": [
+    ],
+    "societyInstagram": "https://www.instagram.com/Sosyalhekimler",
+    "societyFacebook": null,
+    "societyTwitter": null,
+    "societyWebsite": null,
+    "societyLinkedIn": null,
+    "societyMail": "sosyalhekimler@gmail.com"
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FHuawei%20Ogrenci%20Toplulugu%2FHuawei%20Logo.png?alt=media&token=1300c23c-de1c-4db4-bbef-e63a3425f242",
+    "societyName": "Huawei Geliştirici Öğrenci Topluluğu",
+    "societyNameAbbreviation": "HSD",
+    "societyFoundationYear": "2022",
+    "societyMembers": 21,
+    "societyDescription": "Huawei Geliştirici Öğrenciler (HSD) Programı, teknoloji ve yazılım tutkusunu paylaşan üniversite öğrencilerine; eğitimler, etkinlikler ile birlikte öğrenme ortamı sağlayarak bilgi ve deneyimlerini geliştirme fırsatı sunan ve Huawei tarafından desteklenen küresel bir programdır.",
+    "societyImages": [
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FHuawei%20Ogrenci%20Toplulugu%2Fhsd%20-%20Hande%20Karaca.png?alt=media&token=e413de1c-ed42-4893-bfc4-d846d936a813"
+    ],
+    "societyInstagram": "https://www.instagram.com/hsdfirat",
+    "societyFacebook": null,
+    "societyTwitter": null,
+    "societyWebsite": null,
+    "societyLinkedIn": "https://www.linkedin.com/company/83516806/admin/",
+    "societyMail": "hsd@firat.edu.tr"
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FKalite%20Toplulugu%2FKalite%20Logo.jpeg?alt=media&token=4bd9ce06-3e01-410d-8733-0ff9291fee14",
+    "societyName": "Kalite Öğrenci Topluluğu",
+    "societyNameAbbreviation": "SOHEF",
+    "societyFoundationYear": "2022",
+    "societyMembers": 45,
+    "societyDescription": "Yükseköğretimde kalite kültürünün içselleştirilmesini sağlamak.",
+    "societyImages": [
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FKalite%20Toplulugu%2Fffe5217f-0e62-49ae-80e7-6f9078de0410%20-%20F%C4%B1rat%20%C3%9Cniversitesi%20Kalite%20Toplulu%C4%9Fu.jpg?alt=media&token=7f2b3510-e5fc-46ed-8206-97ee85578116",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FKalite%20Toplulugu%2Fa8221ad3-7d6f-4a50-931e-c661c202b387%20-%20F%C4%B1rat%20%C3%9Cniversitesi%20Kalite%20Toplulu%C4%9Fu.jpg?alt=media&token=8ce04bf1-a00d-47ca-bb7e-f978d9ec76fd",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FKalite%20Toplulugu%2Fe0e72c1e-c130-4184-845b-8be2926a4b70%20-%20F%C4%B1rat%20%C3%9Cniversitesi%20Kalite%20Toplulu%C4%9Fu.jpg?alt=media&token=e2152574-cb87-43ca-b839-12272e357ef1"
+    ],
+    "societyInstagram": "https://www.instagram.com/kalitefirat",
+    "societyFacebook": null,
+    "societyTwitter": "https://twitter.com/kalitefirat",
+    "societyWebsite": null,
+    "societyLinkedIn": null,
+    "societyMail": "fkalitetoplulugu@gmail.com"
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FAkademik%20Dusunca%20Toplulugu%2FADEM%20Logo.jpg?alt=media&token=2f33a50e-c359-4392-896e-95fdc04b056a",
+    "societyName": "Akedemik Düşünce Eğitim Medeniyetler Öğrenci Topluluğu",
+    "societyNameAbbreviation": "ADEM",
+    "societyFoundationYear": "2017",
+    "societyMembers": 250,
+    "societyDescription": "Öğrencilere akademik düşünce ve eğitimle alakalı seminerler , konferanslar , söyleşiler ve geziler yaparak katkı sağlamak.",
+    "societyImages": [
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FAkademik%20Dusunca%20Toplulugu%2FIMG-20221017-WA0053%20-%20F%C4%B1rat%20%C3%9Cniversitesi%20Adem%20%C3%96%C4%9Frenci%20Toplulu%C4%9Fu.jpg?alt=media&token=3cf14cd8-9ac3-4514-b4b6-a4f92204de00"
+    ],
+    "societyInstagram": "https://www.instagram.com/adem.firatuni",
+    "societyFacebook": null,
+    "societyTwitter": "https://twitter.com/ademfiratuni",
+    "societyWebsite": null,
+    "societyLinkedIn": null,
+    "societyMail": "ademfiratuni23@gmail.com"
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSaha%20Veteriner%20Toplulugu%2FFUSAHAVET%20Logo.jpg?alt=media&token=0bee816f-30eb-44af-b9f1-6a19d1038c61",
+    "societyName": "Saha Veteriner Hekimler Öğrenci Topluluğu",
+    "societyNameAbbreviation": "SAHAVET",
+    "societyFoundationYear": "2013",
+    "societyMembers": 5,
+    "societyDescription": "Veterinerlik öğrencilerinin veteriner hekimliğin çalışma alanları ve bu alanda neler yaptığını yakından görmelerine olanak sağlamak.",
+    "societyImages": [
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSaha%20Veteriner%20Toplulugu%2FIMG-20221021-WA0006%20-%20S%C4%B1d%C4%B1ka%20Beyza%20G%C3%B6ker.jpg?alt=media&token=a4d3478c-5d85-4602-a050-54f447c7ecaf",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSaha%20Veteriner%20Toplulugu%2FIMG-20221021-WA0007%20-%20S%C4%B1d%C4%B1ka%20Beyza%20G%C3%B6ker.jpg?alt=media&token=898a3004-a870-4a54-a545-d4e98598cdbc",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSaha%20Veteriner%20Toplulugu%2FIMG-20221021-WA0008%20-%20S%C4%B1d%C4%B1ka%20Beyza%20G%C3%B6ker.jpg?alt=media&token=345f230e-62e2-46a4-92a8-0bb83efb3296"
+    ],
+    "societyInstagram": "https://www.instagram.com/fusahavet",
+    "societyFacebook": null,
+    "societyTwitter": null,
+    "societyWebsite": null,
+    "societyLinkedIn": null,
+    "societyMail": "sahaveterinerhekimi@hotmail.com"
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FTibbi%20Hizmetler%20Toplulugu%2FTHT%20Logo.jpg?alt=media&token=dad27a26-dcdc-4268-bd5b-fddaa52417fc",
+    "societyName": "Tibbi Hizmetler ve Teknikerler Öğrenci Topluluğu ",
+    "societyNameAbbreviation": "THT",
+    "societyFoundationYear": "2022",
+    "societyMembers": 200,
+    "societyDescription": "Kovancılar Meslek Yüksek Okulunda Bulunan tıbbi ve teknik bölümler arasında koordineyi sağlayarak ortak faaliyetler çerçevesinde okulumuzda sosyal, kültürel ve bilimsel etkinlikler düzenlemek.",
+    "societyImages": [
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FTibbi%20Hizmetler%20Toplulugu%2F3ed672b5-6d25-40b0-8155-ce6eec6c25d3%20-%20TIBBI%20H%C4%B0ZMETLER%20VE%20TEKN%C4%B0KERLER.jpg?alt=media&token=48c2337c-0ec4-4b9c-965e-1541b27735f7",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FTibbi%20Hizmetler%20Toplulugu%2Fbc1f3dc8-e62e-4306-9609-be05860cc1d5%20-%20TIBBI%20H%C4%B0ZMETLER%20VE%20TEKN%C4%B0KERLER.jpg?alt=media&token=13a43a8c-ca0a-4d6f-a768-82b138512a23",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FTibbi%20Hizmetler%20Toplulugu%2Fc247090f-d15b-4eb9-9666-589466bab83b%20-%20TIBBI%20H%C4%B0ZMETLER%20VE%20TEKN%C4%B0KERLER.jpg?alt=media&token=62076ced-3656-4bdf-8a2e-31028b38b31c"
+    ],
+    "societyInstagram": "https://www.instagram.com/thtogrencitoplulugu",
+    "societyFacebook": null,
+    "societyTwitter": "https://twitter.com/thtogrenci",
+    "societyWebsite": null,
+    "societyLinkedIn": "https://www.linkedin.com/in/tht-%C3%B6%C4%9Frenci-toplulu%C4%9Fu-6a7651254/",
+    "societyMail": "thtogrencitoplulugu@gmail.com"
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FTEMA%2FTEMA%20Logo.jpg?alt=media&token=ef9ff8fe-3298-40bd-b013-9e2c7e936f1c",
+    "societyName": "Genç Tema Öğrenci Topluluğu",
+    "societyNameAbbreviation": "TEMA",
+    "societyFoundationYear": "2016",
+    "societyMembers": 55,
+    "societyDescription": "Kendiliğinden yetişen doğal ormanları korumak, ağaçlandırma çalışmaları yaparak topluma ağaç sevgisi aşılamayı amaçlıyoruz.",
+    "societyImages": [
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FTEMA%2FIMG-20221021-WA0006%20-%20Zeynep%20K%C4%B1vrak.jpg?alt=media&token=915a80e3-8bcc-4ff4-b146-477dbfe0f795",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FTEMA%2FIMG-20220526-WA0038%20-%20Zeynep%20K%C4%B1vrak.jpg?alt=media&token=47e63451-89ed-4e79-b37b-9a3da8763500",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FTEMA%2FIMG-20221021-WA0008%20-%20Zeynep%20K%C4%B1vrak.jpg?alt=media&token=a40c7afc-f845-4fb0-8a21-ab26be17e35f",
+      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FTEMA%2FIMG-20221021-WA0009%20-%20Zeynep%20K%C4%B1vrak.jpg?alt=media&token=696467af-7712-4591-9c78-66ce615472c0"
+    ],
+    "societyInstagram": "www.instagram.com/firatgenctemaa",
+    "societyFacebook": null,
+    "societyTwitter": null,
+    "societyWebsite": null,
+    "societyLinkedIn": null,
+    "societyMail": "firatunv.genctema@gmail.com"
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FVeteriner%20Bilimsel%20Arast%C4%B1rma%20Toplulugu%2FVetBAK%20Logo.jpg?alt=media&token=25364a82-e41b-4db3-b61f-d5165ef4c827",
+    "societyName": "Veteriner Bilimsel Araştırma Yayın Öğrenci Topluluğu ",
+    "societyNameAbbreviation": "VetBAK",
+    "societyFoundationYear": "2002",
+    "societyMembers": 60,
+    "societyDescription": "Bilimsel araştırmalar yapıp , çeşitli bilimsel geziler, kongreler , seminerler paneller düzenleyip bilimsel anlamda bir adım öteye gitmeyi hedefleyen , her türlü bilimsel çalışmalara destek olan bir öğrenci kulübüdür.",
+    "societyImages": [
+    ],
+    "societyInstagram": "https://www.instagram.com/fu.vetbak",
+    "societyFacebook": null,
+    "societyTwitter": null,
+    "societyWebsite": null,
+    "societyLinkedIn": null,
+    "societyMail": null
+  },
+  {
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSOHEF%2Flogo.jpg?alt=media&token=0aa745eb-f921-4986-9d5f-9dfe3ffe488b",
+    "societyName": "Sosyal Bilimlerde Teknoloji ve Araştırma Öğrenci Topluluğu",
+    "societyNameAbbreviation": "FUSTAT",
+    "societyFoundationYear": "2022",
+    "societyMembers": 50,
+    "societyDescription": "Sosyal Bilimlerde Teknoloji ve Araştırma Öğrenci Topluluğu olarak yenilikçi, girişimci, çağın gerek sosyal gerekse teknolojik tüm gelişmelerini takip eden öğrenciler yetiştirilmesine yardımcı olmaktır. Aynı zamanda bilimsel araştırmalar, yıl boyu süren eğitimler ve çalışmalar ile öğrencilerin gelişimlerine katkıda bulunmayı hedefliyoruz.  Ayrıca farklı bilimleri aynı çatı altında toplayıp farklı fikirler projeler üretmek, ülkemize katkı değeri yüksek çalışmalar kazandırmayı hedeflemekteyiz.",
+    "societyImages": [
+    ],
+    "societyInstagram": "https://www.instagram.com/fustatt",
+    "societyFacebook": null,
+    "societyTwitter": null,
+    "societyWebsite": null,
+    "societyLinkedIn": null,
+    "societyMail": null
   }
 ]

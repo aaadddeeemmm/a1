@@ -33,3 +33,5 @@
     "nameSurname":"Prof.Dr. Sinan AKPINAR",
     "email":"genelsekreter@firat.edu.tr",
     "phone":"3031"
+  }
+]

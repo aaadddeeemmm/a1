@@ -117,26 +117,6 @@
     "societyMail": "firatsosyalarge@gmail.com"
   },
   {
-    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSosyal%20Hizmet%2FLogo.png?alt=media&token=907e0aa4-eb27-414c-8483-decd776e6265",
-    "societyName": "Sosyal Hizmet Etkileşim ve Farkındalık Öğrecni Topluluğu",
-    "societyNameAbbreviation": "SHEFT",
-    "societyFoundationYear": "2017",
-    "societyMembers": 186,
-    "societyDescription": "Sosyal hizmet etkileşim ve farkındalık öğrenci topluluğu olarak amacımız mesleğin kalıplaşmış yargılardan sıyrılıp asıl amacı olan dezavantajlı gruplarda sosyal hşzmet uzmanının görev ve sorumluluklarını gün yüzüne çıkarmaktır.",
-    "societyImages": [
-      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSosyal%20Hizmet%2FFIRAT%20%C3%9CN%C4%B0VERS%C4%B0TES%C4%B0%20SOSYAL%20H%C4%B0ZMET%20ETK%C4%B0LE%C5%9E%C4%B0M%20VE%20FARKINDALIK%20KUL%C3%9CB%C3%9C%20-%20Bet%C3%BCl%20Karata%C5%9F.png?alt=media&token=e99507ee-7d5c-478f-adf9-2f00af8c0e4f",
-      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSosyal%20Hizmet%2FMonday%20to%20Sunday%20%2010%20AM%20to%205%20PM%20-%20Bet%C3%BCl%20Karata%C5%9F.png?alt=media&token=e930f38b-5f9c-4d06-af87-a1706db54e54",
-      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSosyal%20Hizmet%2FWhatsApp%20Image%202021-11-06%20at%2022.32.12%20-%20Bet%C3%BCl%20Karata%C5%9F.jpeg?alt=media&token=11d5cdac-a1df-4704-820c-b7565fd75c9b",
-      "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSosyal%20Hizmet%2FWhatsApp%20Image%202021-11-19%20at%2012.29.29%20-%20Bet%C3%BCl%20Karata%C5%9F.jpeg?alt=media&token=0cdc7b56-3624-4d9b-b832-3e9a787b1763"
-    ],
-    "societyInstagram": "https://www.instagram.com/sosyalhizmetkulubu23",
-    "societyYoutube": null,
-    "societyTwitter": null,
-    "societyWebsite": null,
-    "societyLinkedIn": null,
-    "societyMail": "sosyalhizmet2323@gmail.com"
-  },
-  {
     "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFIMU%2FLogo.png?alt=media&token=64bf6b7d-6d32-4ffb-bf8d-7897190a290a",
     "societyName": "İnşaat Mühendisliği Öğrenci Topluluğu",
     "societyNameAbbreviation": "FİMÜ",

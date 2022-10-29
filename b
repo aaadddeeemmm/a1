@@ -1064,7 +1064,7 @@
     "societyMail": null
   },
   {
-    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FSOHEF%2Flogo.jpg?alt=media&token=0aa745eb-f921-4986-9d5f-9dfe3ffe488b",
+    "societyLogoImageUrl": "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FFUSTAT%2FF%C3%9CSTAT%20Logo.png?alt=media&token=b9c1b391-ab2d-43fe-b1f5-1f50481eeb5f",
     "societyName": "Sosyal Bilimlerde Teknoloji ve Araştırma Öğrenci Topluluğu",
     "societyNameAbbreviation": "FUSTAT",
     "societyFoundationYear": "2022",

@@ -1020,7 +1020,7 @@
       "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FTEMA%2FIMG-20221021-WA0008%20-%20Zeynep%20K%C4%B1vrak.jpg?alt=media&token=a40c7afc-f845-4fb0-8a21-ab26be17e35f",
       "https://firebasestorage.googleapis.com/v0/b/fu-sks.appspot.com/o/socities%2FTEMA%2FIMG-20221021-WA0009%20-%20Zeynep%20K%C4%B1vrak.jpg?alt=media&token=696467af-7712-4591-9c78-66ce615472c0"
     ],
-    "societyInstagram": "www.instagram.com/firatgenctemaa",
+    "societyInstagram": "https://www.instagram.com/firatgenctemaa",
     "societyFacebook": null,
     "societyTwitter": null,
     "societyWebsite": null,
